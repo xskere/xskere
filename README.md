@@ -25,6 +25,5 @@ Here are some of the technologies I've worked with (there are probably more stil
     <img src="./icons/c_icon.svg" alt="c" width="50" height="50"/>
     <img src="./icons/cplusplus_icon.svg" alt="c++" width="50" height="50"/>    
     <img src="./icons/mysql_icon.svg" alt="mysql" width="50" height="50"/>
-    <img src="./icons/oracle_icon.svg" alt="oracle" width="50" height="50"/>
     </br>
   </p>
