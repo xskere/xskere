@@ -1,7 +1,7 @@
 # Hi there, I'm Alejandro Rodríguez Moreno, known mostly in the internet via Xskere 💻
 ## It's my pleasure to meet you 😉
 
-I am a soon to be web developer, presently studying my fourth year at the University of Las Palmas of Gran Canaria. Even though I am still a student, I've worked on some projects beforehand, so I have some first hand experience.
+I am a soon to be web developer, presently studying my fourth year at the University of Las Palmas of Gran Canaria. Even though I am still a student, I've worked on some web development projects beforehand, so I have some first hand experience.
 
 Here are some of the technologies I've worked with (there are probably more still)
 
